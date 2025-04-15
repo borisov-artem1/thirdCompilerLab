@@ -1,0 +1,3 @@
+/home/artemborisov/CLionProjects/thirdCompilerLab/cmake-build-debug/CMakeFiles/thirdCompilerLab.dir
+/home/artemborisov/CLionProjects/thirdCompilerLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/artemborisov/CLionProjects/thirdCompilerLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
